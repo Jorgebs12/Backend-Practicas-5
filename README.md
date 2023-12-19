@@ -70,4 +70,4 @@ Se esperan consultas GraphQL que permitan obtener información encadenada. Por e
 -   El servidor utiliza `GraphQLError` de GraphQL para manejar errores y mostrarlo por pantalla.
 
 ## Deno Deploy 
--   [prac4-back-doctor-who.deno.dev](https://prac4-back-doctor-who.deno.dev/)
+-   [[prac4-back-doctor-who.deno.dev](https://prac4-back-doctor-who.deno.dev/)]
